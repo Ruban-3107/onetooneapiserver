@@ -1,0 +1,2 @@
+@host= http://localhost:5000
+GET http://localhost:5000/api/v2/domain/61af6a13b687940013a92403
